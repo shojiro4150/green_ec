@@ -1,2 +1,5 @@
 # 拡張子が .pyc のファイル・ディレクトリにマッチ
 *.pyc
+
+# すべての Python_Django_sample という名前のディレクトリにマッチ
+Python_Django_sample/
